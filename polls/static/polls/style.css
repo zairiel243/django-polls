@@ -1,0 +1,13 @@
+body{
+	background-image: url("images/chitanda.jpg");
+}
+
+li a {
+	color: white;
+	text-decoration: none;
+
+}
+
+a:visited{
+	color: white;
+}
